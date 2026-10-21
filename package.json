@@ -1,0 +1,24 @@
+{
+  "name": "rh-server",
+  "version": "1.0.0",
+  "description": "rhytym hive server for sonolus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monika288827/rh-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/monika288827/rh-server/issues"
+  },
+  "homepage": "https://github.com/monika288827/rh-server#readme",
+  "dependencies": {
+    "@sonolus/free-pack": "^1.2.0"
+  }
+}
